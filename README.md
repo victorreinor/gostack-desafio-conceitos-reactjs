@@ -6,7 +6,7 @@ Neste desafio colocamos em prática os conceitos básicos do ReactJS como consum
 
 [Link do segundo desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs "Link do segundo desafio")
 
-<img alt="Tela do desafio" width="300" src="https://github.com/victorreinor/gostack-desafio-conceitos-reactjs/blob/master/tela%20do%20desafio.png" />
+<img alt="Tela do desafio" width="600" src="https://github.com/victorreinor/gostack-desafio-conceitos-reactjs/blob/master/tela%20do%20desafio.png" />
 
 ## Passo-a-passo para rodar a aplicação
 
