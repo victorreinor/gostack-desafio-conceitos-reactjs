@@ -2,9 +2,11 @@
 
 # Desafio: Conceitos de ReactJS
 
-Segundo desafio da GoStack (Conceitos ReactJS).
+Neste desafio colocamos em prática os conceitos básicos do ReactJS como consumir a API que fizemos no último desafio listando os repositórios na tela, adicionando e removendo eles.
 
 [Link do segundo desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs "Link do segundo desafio")
+
+<img alt="Tela do desafio" width="300" src="https://github.com/victorreinor/gostack-desafio-conceitos-reactjs/blob/master/tela%20do%20desafio.png" />
 
 ## Passo-a-passo para rodar a aplicação
 
